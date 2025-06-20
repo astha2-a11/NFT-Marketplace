@@ -22,5 +22,9 @@ To empower individuals with complete control over their digital inheritance by l
 - UI for real-world adoption
 
 ## 📄 Contract Details
-(To be filled manually)
+contract address- 0xeb27cb5b1ef4db02a60f689dc95ec9d7a4f03314
+transaction hash : 0xd679bf9e60a9984c1a50f6714de7bfbe4ce52187ddd7da90fc4165fff97a6672
+
+![image](https://github.com/user-attachments/assets/fed85bf5-e95b-4e2c-b35c-7451abbe50b2)
+
 
