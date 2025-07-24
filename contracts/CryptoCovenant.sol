@@ -41,4 +41,11 @@ contract CryptoCovenant {
     function transferOwnership(address _newOwner) external onlyOwner {
         owner = _newOwner;
     }
+
+    ///  New Function: Check claim eligibility
+    function isEligibleToClaim() external view returns (bool) {
+        return isWillActive && block.timestamp >= unlockTime;
+    }
 }
+
+//added one more function on it.
