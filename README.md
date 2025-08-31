@@ -27,4 +27,7 @@ transaction hash : 0xd679bf9e60a9984c1a50f6714de7bfbe4ce52187ddd7da90fc4165fff97
 
 ![image](https://github.com/user-attachments/assets/fed85bf5-e95b-4e2c-b35c-7451abbe50b2)
 
+#EC CORE PROJECT
+I have done this work
+
 
